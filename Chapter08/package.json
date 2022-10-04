@@ -46,7 +46,7 @@
     "@ngrx/router-store": "^12.0.0",
     "@ngrx/store": "^12.0.0",
     "@nrwl/angular": "12.3.5",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "ng2-charts": "^2.4.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
